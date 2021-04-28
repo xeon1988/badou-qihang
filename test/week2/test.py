@@ -6,3 +6,4 @@ for i in range(1,5):
                 print(i,j,k)
                 total+=1
 print(total)
+
